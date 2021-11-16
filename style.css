@@ -9,7 +9,7 @@ body {
 	h1 { color: black; font-family: "Lucida Handwriting"; font-size: 165px; line-height: 200px; font-weight: bold; margin-bottom: 0px; margin-top: 40px; text-align: center; text-shadow: 0 1px 1px #fff;}
 	h2 { color: gray; font-family: "Papyrus"; Line-height: 0%; Font-weight: lighter; text-align: center;font-size: 65px;margin-top: 40px}
 	h3 { color: black; font-family: "Papyrus"; font-size: 40px; text-align: center; text-transform: "lowercase" }
-	h4 { color: blue; text-align: center; font-size: 40px; font-family: "Papyrus";}	
+	h4 { color: blue; text-align: center; font-size: 40px; font-family: "Papyrus"; text-decoration:blink}	
 	h5 { color: black; font-family: "Corbel Light"; font-size: 30px; text-align: center;}
 	h6 { color: blue; text-align: center; font-size: 35px; font-family: "Papyrus"}
 	p  { color: purple; font-family: "Papyrus"; font-size: 40px; text-align: center}
