@@ -4,7 +4,7 @@ body {
 	background-repeat: no-repeat;
 	background-position: 50% 20%;
 	background-attachment: fixed;
-	background-image-opacity:0.5;
+	background-image-opacity: 0.5;
 
 }
 	div { color: black; font-family: "Amatic SC"; font-size: 25px; text-align: center}
