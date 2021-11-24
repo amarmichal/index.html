@@ -1,6 +1,7 @@
 body {
 	background-color: #D3D3D3;
 	background-image: url(film.png);
+	opacity: 0.5;
 	background-repeat: no-repeat;
 	background-position: 50% 20%;
 	background-attachment: fixed;
@@ -16,11 +17,6 @@ body {
 	ul { color: black; font-family: "Papyrus"; font-size: 35px; text-align: center}
 	form { font-size: 25px }
 
-background {
-	opacity: 0.5;
-}
-
-	
 img {
 	border-radius: 80%;
 	height: 150px; 
