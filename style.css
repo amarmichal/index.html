@@ -1,10 +1,6 @@
 body {
 	background-color: #D3D3D3;
-	background-image: url(film.png);
-	background-repeat: no-repeat;
-	background-position: 50% 80%;
-	background-attachment: fixed;
-	
+		
 .demo-wrap {  position: relative;}
 .demo-wrap:before {
  	  content: ' ';
